@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="StJamesMcConnelsville on Blue Host">
+    <serverData>
+      <paths name="StJamesMcConnelsville on Blue Host">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/stbernardbeverly" />
+            <excludedPath local="true" path="$PROJECT_DIR$/stbernardbeverly" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
