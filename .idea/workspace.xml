@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="589a8fa9-e45f-41c2-9d92-0c765c371924" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <list id="d785c058-cb56-45dd-babd-561407470101" name="Ignored" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Still in pieces.</find>
+      <find>StC Publishing 2017</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>StC Publishing 2019</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/documents/ToDo.txt" />
+        <option value="$PROJECT_DIR$/html/habitat2019.html" />
+        <option value="$PROJECT_DIR$/html/junk.txt" />
+        <option value="$PROJECT_DIR$/html/pastoralplanning.html" />
+        <option value="$PROJECT_DIR$/html/coronavirus.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/html/about.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1620" />
+    <option name="height" value="921" />
+  </component>
+  <component name="ProjectId" id="2Rpw9rdXjOM6bDa3qE3t27kBSYP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="St-James" type="b2602c69:ProjectViewProjectNode" />
+              <item name="St-James" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="St-James" type="b2602c69:ProjectViewProjectNode" />
+              <item name="St-James" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fr. Tim/Desktop/Other Machines/SBM1 Backup 6-6-11/My Source/Webstorm/Websites/Sandbox/Charia&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;web.server&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fr. Tim\Desktop\Other Machines\SBM1 Backup 6-6-11\My Source\Webstorm\Websites\St-James\img\about" />
+      <recent name="C:\Users\Fr. Tim\Desktop\Other Machines\SBM1 Backup 6-6-11\My Source\Webstorm\Websites\St-James\css" />
+      <recent name="C:\Users\Fr. Tim\Desktop\Other Machines\SBM1 Backup 6-6-11\My Source\Webstorm\Websites\St-James\documents\music" />
+      <recent name="C:\Users\Fr. Tim\Desktop\Other Machines\SBM1 Backup 6-6-11\My Source\Webstorm\Websites\St-James\documents\coronavirus" />
+      <recent name="C:\Users\Fr. Tim\Desktop\Other Machines\SBM1 Backup 6-6-11\My Source\Webstorm\Websites\St-James\img\carousel" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.18034.69" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.18034.69" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="589a8fa9-e45f-41c2-9d92-0c765c371924" name="Default" comment="" />
+      <changelist id="d785c058-cb56-45dd-babd-561407470101" name="Ignored" comment="" />
+      <created>1550679098421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550679098421</updated>
+      <workItem from="1550679100218" duration="69000" />
+      <workItem from="1550679664268" duration="34000" />
+      <workItem from="1550679896474" duration="22000" />
+      <workItem from="1550679963006" duration="35000" />
+      <workItem from="1550697379556" duration="232000" />
+      <workItem from="1550717626862" duration="342000" />
+      <workItem from="1550717975081" duration="21000" />
+      <workItem from="1550718222876" duration="21000" />
+      <workItem from="1550718302317" duration="92000" />
+      <workItem from="1550718509016" duration="10000" />
+      <workItem from="1550751987901" duration="1085000" />
+      <workItem from="1550844369149" duration="591000" />
+      <workItem from="1550855304705" duration="335000" />
+      <workItem from="1551000487002" duration="734000" />
+      <workItem from="1551123382751" duration="13000" />
+      <workItem from="1552612869586" duration="81000" />
+      <workItem from="1554376517294" duration="135000" />
+      <workItem from="1561801058899" duration="1251000" />
+      <workItem from="1562263081347" duration="199000" />
+      <workItem from="1568572925458" duration="977000" />
+      <workItem from="1570883941516" duration="345000" />
+      <workItem from="1573314700783" duration="113000" />
+      <workItem from="1575751039098" duration="801000" />
+      <workItem from="1576354205391" duration="1664000" />
+      <workItem from="1576505964484" duration="4013000" />
+      <workItem from="1582229997933" duration="658000" />
+      <workItem from="1583845587950" duration="66000" />
+      <workItem from="1584473372530" duration="1856000" />
+      <workItem from="1588103606002" duration="374000" />
+      <workItem from="1588104009598" duration="630000" />
+      <workItem from="1588448994927" duration="224000" />
+      <workItem from="1589484634709" duration="268000" />
+      <workItem from="1589837790368" duration="843000" />
+      <workItem from="1595774743367" duration="411000" />
+      <workItem from="1596305032170" duration="72000" />
+      <workItem from="1596309626090" duration="7000" />
+      <workItem from="1596445240117" duration="280000" />
+      <workItem from="1596445678378" duration="166000" />
+      <workItem from="1596499977306" duration="7000" />
+      <workItem from="1596500139963" duration="92000" />
+      <workItem from="1596569174323" duration="17000" />
+      <workItem from="1596887462626" duration="142000" />
+      <workItem from="1596889620753" duration="592000" />
+      <workItem from="1597085154370" duration="13000" />
+      <workItem from="1597086136472" duration="10000" />
+      <workItem from="1597240168700" duration="10000" />
+      <workItem from="1597241715000" duration="282000" />
+      <workItem from="1597499600206" duration="15000" />
+      <workItem from="1597499625993" duration="374000" />
+      <workItem from="1597779197133" duration="355000" />
+      <workItem from="1597791037184" duration="52000" />
+      <workItem from="1601126336224" duration="160000" />
+      <workItem from="1601315619953" duration="7000" />
+      <workItem from="1601901738332" duration="620000" />
+      <workItem from="1602435502576" duration="629000" />
+      <workItem from="1604151419065" duration="725000" />
+      <workItem from="1606632544976" duration="959000" />
+      <workItem from="1606657966717" duration="2268000" />
+      <workItem from="1606757714794" duration="66000" />
+      <workItem from="1621704913593" duration="14000" />
+      <workItem from="1621704958390" duration="8000" />
+      <workItem from="1621705209562" duration="182000" />
+      <workItem from="1627913310844" duration="10000" />
+      <workItem from="1628962463685" duration="145000" />
+      <workItem from="1628962902239" duration="23000" />
+      <workItem from="1628962934728" duration="299000" />
+      <workItem from="1687960183245" duration="93000" />
+      <workItem from="1687976586891" duration="112000" />
+      <workItem from="1690328584626" duration="8000" />
+      <workItem from="1716662752037" duration="868000" />
+      <workItem from="1717004601308" duration="189000" />
+      <workItem from="1718203348942" duration="705000" />
+      <workItem from="1721246028426" duration="875000" />
+      <workItem from="1721248098214" duration="137000" />
+      <workItem from="1723750329937" duration="10000" />
+      <workItem from="1723751519110" duration="729000" />
+      <workItem from="1725535434416" duration="1717000" />
+      <workItem from="1725565234846" duration="2664000" />
+      <workItem from="1725823739855" duration="929000" />
+      <workItem from="1726001308230" duration="8000" />
+      <workItem from="1730331286443" duration="768000" />
+      <workItem from="1731007870473" duration="44000" />
+      <workItem from="1731007924797" duration="16000" />
+      <workItem from="1736189950661" duration="467000" />
+      <workItem from="1736191118176" duration="126000" />
+      <workItem from="1736191473460" duration="28000" />
+      <workItem from="1736208602673" duration="857000" />
+      <workItem from="1736210224582" duration="34000" />
+      <workItem from="1736272613258" duration="3829000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1550697469124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550697469124</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Wrong date.  Added link.">
+      <created>1550718374985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550718374985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added link.">
+      <created>1550752471426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550752471426</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed Chilly Chili Day from the carousel.">
+      <created>1551000989030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551000989030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="No Masses due to coronavirus.">
+      <created>1588103726743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588103726748</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Coronavirus update.">
+      <created>1588104587328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588104587328</updated>
+    </task>
+    <task id="LOCAL-00007" summary="COVID letter.">
+      <created>1595775141380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595775141380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="For Matthew Leonard.">
+      <created>1597779239953</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779239953</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated copyright.">
+      <created>1597779264427</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779264427</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated copyright.">
+      <created>1597779285118</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779285118</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated copyright.">
+      <created>1597779301251</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779301251</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Removed No Masses message and returned to carousel.">
+      <created>1597779386922</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779386922</updated>
+    </task>
+    <task id="LOCAL-00013" summary=".">
+      <created>1597779495669</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779495669</updated>
+    </task>
+    <task id="LOCAL-00014" summary=".">
+      <created>1597779506235</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1597779506235</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27146000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" x="647" y="425" width="306" height="50" id="TODO" order="11" show_stripe_button="false" weight="0.3284532" />
+      <window_info anchor="right" auto_hide="true" x="1477" y="1157" width="405" height="414" id="Event Log" internal_type="SLIDING" order="10" show_stripe_button="false" side_tool="true" type="SLIDING" weight="0.32908976" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="right" auto_hide="true" x="578" y="460" width="689" height="256" id="File Transfer" internal_type="SLIDING" order="12" type="SLIDING" weight="0.17170112" />
+      <window_info anchor="right" id="Version Control" order="14" type="SLIDING" weight="0.3290938" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="right" auto_hide="true" x="758" y="425" width="83" height="50" id="Terminal" internal_type="SLIDING" order="8" show_stripe_button="false" type="SLIDING" weight="0.20608751" />
+      <window_info anchor="right" auto_hide="true" x="1503" y="790" width="351" height="540" id="Remote Host" internal_type="SLIDING" order="9" type="SLIDING" weight="0.3290938" />
+      <window_info anchor="right" content_ui="combo" x="1210" y="607" width="246" height="875" id="Project" internal_type="SLIDING" order="4" type="SLIDING" weight="0.26947537" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="right" auto_hide="true" x="758" y="425" width="83" height="50" id="Database" internal_type="SLIDING" order="6" show_stripe_button="false" type="SLIDING" weight="0.32908976" />
+      <window_info anchor="right" x="758" y="425" width="83" height="50" id="Structure" internal_type="SLIDING" order="5" show_stripe_button="false" side_tool="true" type="SLIDING" weight="0.2494929" />
+      <window_info anchor="right" auto_hide="true" x="603" y="51" width="393" height="797" id="Favorites" internal_type="SLIDING" order="7" show_stripe_button="false" side_tool="true" type="FLOATING" weight="0.2488917" />
+      <window_info anchor="right" auto_hide="true" x="952" y="262" width="398" height="421" id="Debug" internal_type="SLIDING" order="3" type="SLIDING" weight="0.2714014" />
+      <window_info id="Gulp" order="0" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" auto_hide="true" id="TypeScript" internal_type="SLIDING" order="13" type="SLIDING" weight="0.31959417" />
+      <window_info anchor="bottom" id="Changes" order="2" />
+      <window_info anchor="bottom" id="Application Servers" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" x="1467" y="1153" width="1359" height="424" id="Inspection" order="9" type="FLOATING" weight="0.3998808" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" x="676" y="274" width="809" height="370" id="Find" order="6" type="FLOATING" weight="0.3295901" />
+      <window_info anchor="bottom" x="1860" y="626" width="998" height="428" id="Messages" order="3" type="FLOATING" visible="true" weight="0.329559" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <MESSAGE value="Wrong date.  Added link." />
+    <MESSAGE value="Added link." />
+    <MESSAGE value="Removed Chilly Chili Day from the carousel." />
+    <MESSAGE value="No Masses due to coronavirus." />
+    <MESSAGE value="Coronavirus update." />
+    <MESSAGE value="COVID letter." />
+    <MESSAGE value="For Matthew Leonard." />
+    <MESSAGE value="Updated copyright." />
+    <MESSAGE value="Removed No Masses message and returned to carousel." />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1660">
+          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1660">
+          <caret line="83" column="43" lean-forward="true" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2740">
+          <caret line="137" column="42" selection-start-line="137" selection-start-column="42" selection-end-line="137" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2740">
+          <caret line="137" column="42" selection-start-line="137" selection-start-column="42" selection-end-line="137" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/carousel/ChillyChiliDay.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents/ToDo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/habitat2019/two.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/habitat2019/one.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/habitat2019/five.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/habitat.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/junk.txt" />
+    <entry file="file://$PROJECT_DIR$/html/habitat2019.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/carousel/coronavirus" />
+    <entry file="file://$PROJECT_DIR$/img/carousel/ChurchFront.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/pastoralplanning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="72" column="20" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/coronavirus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/carousel/Altar.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/carousel/DorisCostello.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="149" column="60" selection-start-line="149" selection-start-column="60" selection-end-line="149" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="113" column="59" selection-start-line="113" selection-start-column="59" selection-end-line="113" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+/*!
+ * basic.css
+ *
+ * This style sheet contains my additions
+ */
+
+/* The text on the carousel is based on the width of
+   the screen so that it will always fit on the image.
+*/
+
+.my-carousel-header-white {
+    font-size: 5vw;
+    color: white;
+    text-shadow: 0px 0px 10px black, 0px 0px 10px black;
+}
+
+.my-carousel-header-black {
+    font-size: 5vw;
+    color: black;
+    text-shadow: 0px 0px 10px white, 0px 0px 10px white;
+}
+
+.my-carousel-text-white {
+    font-size:3vw;
+    color: white;
+    text-shadow: 0px 0px 10px black, 0px 0px 10px black;
+}
+
+.my-carousel-text-black {
+    font-size: 5vw;
+    color: black;
+    text-shadow: 0px 0px 10px white, 0px 0px 10px white;
+}
+
+.my-carousel-link-green {
+    color: lawngreen;
+}
+
