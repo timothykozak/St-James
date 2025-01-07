@@ -1,0 +1,23 @@
+/*
+    basic.css
+ */
+
+.corona-virus-line-through {
+    text-decoration: line-through;
+}
+
+.corona-virus-header {
+    font-size: 56px;
+}
+
+.corona-virus-text {
+    font-size: 26px;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.corona-virus-list {
+    list-style-position: inside;
+    text-indent: -1.5em;
+}
+
